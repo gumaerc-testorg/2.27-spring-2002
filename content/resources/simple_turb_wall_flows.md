@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on bounded flows, general near-wall scaling laws, flows
   in pipes, and channels.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-27-turbulent-flow-and-transport-spring-2002/c86df08d5403b2c98a9abfc1cffcdeaf_Simple_turb_wall_flows.pdf
+file: /media/courses/2-27-turbulent-flow-and-transport-spring-2002/c86df08d5403b2c98a9abfc1cffcdeaf_Simple_turb_wall_flows.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Bounded Flows I: General Near\u2212Wall Scaling Laws; Flows in Pipes, Channels,\
   \ etc. "
