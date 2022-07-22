@@ -5,6 +5,7 @@ file: /courses/2-27-turbulent-flow-and-transport-spring-2002/6dea1c01310528dc771
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Concepts in Turbulence
 uid: 6dea1c01-3105-28dc-771c-046e9352c01e
 ---
 Lecture notes on concepts in turbulence.
-

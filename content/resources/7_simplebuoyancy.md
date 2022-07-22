@@ -5,6 +5,7 @@ file: /courses/2-27-turbulent-flow-and-transport-spring-2002/70532f29a5b30e675c6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Buoyant Plumes, Thermals, etc.
 uid: 70532f29-a5b3-0e67-5c60-540077a92931
 ---
 Lecture notes on stable and unstable atmospheres.
-

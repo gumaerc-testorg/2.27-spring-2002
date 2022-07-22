@@ -6,6 +6,7 @@ file: /courses/2-27-turbulent-flow-and-transport-spring-2002/1c80d3bfd54cb73fffc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Free Shear Flows I: Jets, Wakes, etc.\u2212Solutions Based on Simple Mea
 uid: 1c80d3bf-d54c-b73f-ffc3-a301657e8cfb
 ---
 Lecture notes on free shear flows, jets, wakes, and solutions based on simple mean−flow closure schemes.
-

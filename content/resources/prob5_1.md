@@ -6,6 +6,7 @@ file: /courses/2-27-turbulent-flow-and-transport-spring-2002/c69be6f1c44d7ce11b5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Problem 5.1: The Kolmogorov microscale, the viscous sublayer, and the in
 uid: c69be6f1-c44d-7ce1-1b59-ca2de7a04901
 ---
 Problem set on the Kolmogorov microscale, the viscous sublayer, and the inertial sublayer.
-
