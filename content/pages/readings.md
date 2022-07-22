@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the reading assignments for each session of the
+  course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 36c42c86-59d6-20ba-e000-7fc3b5e2ba64
 ---
@@ -21,7 +26,7 @@ Readings
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -97,7 +102,7 @@ Vincenti & Kruger. _Introduction to Physical Gas Dynamics._1965, pp.15-20.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -184,7 +189,7 @@ Selected experimental data and summaries.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -219,7 +224,7 @@ Tennekes & Lumley. pp. 147-165, 171-176.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
