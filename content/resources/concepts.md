@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on concepts in turbulence.
 file: /courses/2-27-turbulent-flow-and-transport-spring-2002/6dea1c01310528dc771c046e9352c01e_Concepts.pdf
+file_size: 93584
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
