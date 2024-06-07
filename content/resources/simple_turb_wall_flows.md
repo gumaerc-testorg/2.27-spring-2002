@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on bounded flows, general near-wall scaling laws, flows
   in pipes, and channels.
 file: /courses/2-27-turbulent-flow-and-transport-spring-2002/c86df08d5403b2c98a9abfc1cffcdeaf_Simple_turb_wall_flows.pdf
+file_size: 108499
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

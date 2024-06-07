@@ -3,6 +3,7 @@ content_type: resource
 description: "Lecture notes on free shear flows, jets, wakes, and solutions based\
   \ on simple mean\u2212flow closure schemes."
 file: /courses/2-27-turbulent-flow-and-transport-spring-2002/1c80d3bfd54cb73fffc3a301657e8cfb_Free_shear_flows.pdf
+file_size: 340789
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
