@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on scales of turbulent motion.
 file: /courses/2-27-turbulent-flow-and-transport-spring-2002/a6524139d9e331e83c9fb8deed538247_Prob3_1.pdf
+file_size: 54778
 file_type: application/pdf
 learning_resource_types:
 - Assignments
