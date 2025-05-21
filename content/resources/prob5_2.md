@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on friction in turbulent hydrodynamic bearings.
-file: /ol-ocw-studio-app/courses/2-27-turbulent-flow-and-transport-spring-2002/d9cd6ed973667afa2aff0b8b3690d779_Prob5_2.pdf
+file: /courses/2-27-turbulent-flow-and-transport-spring-2002/d9cd6ed973667afa2aff0b8b3690d779_Prob5_2.pdf
 file_size: 71667
 file_type: application/pdf
 learning_resource_types:
