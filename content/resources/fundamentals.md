@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the fundamental laws governing continuum flow and constitutive
   equations.
-file: /ol-ocw-studio-app/courses/2-27-turbulent-flow-and-transport-spring-2002/03ca7e90be656ad8f628a6400036aa62_Fundamentals.pdf
+file: /courses/2-27-turbulent-flow-and-transport-spring-2002/03ca7e90be656ad8f628a6400036aa62_Fundamentals.pdf
 file_size: 112658
 file_type: application/pdf
 learning_resource_types:

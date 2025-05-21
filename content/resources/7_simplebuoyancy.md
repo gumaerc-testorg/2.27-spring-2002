@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on stable and unstable atmospheres.
-file: /ol-ocw-studio-app/courses/2-27-turbulent-flow-and-transport-spring-2002/70532f29a5b30e675c60540077a92931_7_SimpleBuoyancy.pdf
+file: /courses/2-27-turbulent-flow-and-transport-spring-2002/70532f29a5b30e675c60540077a92931_7_SimpleBuoyancy.pdf
 file_size: 411616
 file_type: application/pdf
 learning_resource_types:
