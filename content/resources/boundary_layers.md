@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on turbulent boundary layers.
-file: /courses/2-27-turbulent-flow-and-transport-spring-2002/401aed17397ef5afafa60b237670a4ca_Boundary_layers.pdf
+file: /ol-ocw-studio-app/courses/2-27-turbulent-flow-and-transport-spring-2002/401aed17397ef5afafa60b237670a4ca_Boundary_layers.pdf
 file_size: 296226
 file_type: application/pdf
 learning_resource_types:

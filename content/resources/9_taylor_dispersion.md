@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on dispersion in pipe and channel flow.
-file: /courses/2-27-turbulent-flow-and-transport-spring-2002/5091c145ca7a3fe1d6d759cae9b803e2_9_Taylor_dispersion.pdf
+file: /ol-ocw-studio-app/courses/2-27-turbulent-flow-and-transport-spring-2002/5091c145ca7a3fe1d6d759cae9b803e2_9_Taylor_dispersion.pdf
 file_size: 509755
 file_type: application/pdf
 learning_resource_types:
